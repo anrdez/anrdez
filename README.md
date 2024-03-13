@@ -1,8 +1,5 @@
 
- <div align="center">
-  <h1>👋🏼 Hola, soy Angela! | Hi, I'm Angela!</h1>
-  
-![Banner readme angyrdez](banner-github-angyrdez.png)</div>
+<!--![Banner readme angyrdez](banner-github-angyrdez.png)</div> -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelarodriguezportela/)
   
