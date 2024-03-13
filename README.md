@@ -1,8 +1,7 @@
-
-<!--![Banner readme angyrdez](banner-github-angyrdez.png)</div> -->
+![Banner readme angyrdez](angyrdez_github_profile.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelarodriguezportela/)
-  
+![](https://komarev.com/ghpvc/?username=angyrdez&style=for-the-badge&color=657b7b)
 
 
 ## 🙋🏼‍♀️ Sobre mi | About me
@@ -25,7 +24,7 @@ Currently, I'm studying for a *Higher Education degree in Multiplatform Applicat
 
 On my own, I'm also learning to use frameworks like *Angular and Spring Boot*, as well as other tools to stay updated on the latest technologies in the field.
 
-## 🚀 Skills
+## 🚀 Habilidades | Skills
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -39,10 +38,13 @@ On my own, I'm also learning to use frameworks like *Angular and Spring Boot*, a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 💻 Currently learning
+## 👩🏼‍💻 Aprendiendo | Currently learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+## 📈 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=angyrdez&theme=nord&no-bg=true&margin-w=5&margin-h=5&column=-1)](https://github.com/angyrdez/github-profile-trophy)
+![angyrdez's GitHub stats](https://github-readme-stats.vercel.app/api?username=angyrdez&theme=transparent&show_icons=true&title_color=657b7b&icon_color=657b7b&text_color=b6d4d4)
 
