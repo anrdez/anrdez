@@ -45,6 +45,6 @@ On my own, I'm also learning to use frameworks like *Angular and Spring Boot*, a
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 📈 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=angyrdez&theme=nord&no-bg=true&margin-w=5&margin-h=5&column=-1)](https://github.com/angyrdez/github-profile-trophy)
-![angyrdez's GitHub stats](https://github-readme-stats.vercel.app/api?username=angyrdez&theme=transparent&show_icons=true&title_color=657b7b&icon_color=657b7b&text_color=b6d4d4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anrdez&theme=nord&no-bg=true&margin-w=5&margin-h=5&column=-1)](https://github.com/anrdez/github-profile-trophy)
+![angyrdez's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrdez&theme=transparent&show_icons=true&title_color=657b7b&icon_color=657b7b&text_color=b6d4d4)
 
