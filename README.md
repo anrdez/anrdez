@@ -1,4 +1,4 @@
-![Banner readme angyrdez](angyrdez_github_profile.png)
+![Banner readme angyrdez](anrdez_github_profile.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelarodriguezportela/)
 ![](https://komarev.com/ghpvc/?username=anrdez&style=for-the-badge&color=657b7b)
