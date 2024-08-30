@@ -8,12 +8,15 @@
 Marketer en proceso de transición al desarrollo tecnológico. Mi gran interés por aprender y explorar nuevas tecnologías me ha llevado a dar un giro significativo a mi carrera profesional. 
 
 🔭 Experiencia:
+
 Con formación y experiencia en el campo de la Publicidad y Marketing Digital. Recientemente terminé mis estudios en el FP Superior de Desarrollo de Aplicaciones Multiplataforma y busco oportunidades laborales en el sector tecnológico
 
 🌱 En aprendizaje constante:
+
 De manera autodidacta estoy profundizando en Java, MySQL, PostgreSQL, Angular y Spring Boot, siempre buscando mantenerme al día con las tecnologías más demandadas.
 
 ❤️ Me motiva:
+
 Estar en continuo aprendizaje y descubrir nuevas tecnologías y herramientas que me permitan potenciar mi trabajo y construir un perfil polivalente.
 
 ## 🚀 Habilidades
