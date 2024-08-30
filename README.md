@@ -4,30 +4,19 @@
 ![](https://komarev.com/ghpvc/?username=anrdez&style=for-the-badge&color=657b7b)
 
 
-## 🙋🏼‍♀️ About me | Sobre mí
+## 🙋🏼‍♀️ Sobre mí
+Marketer en proceso de transición al desarrollo tecnológico. Mi gran interés por aprender y explorar nuevas tecnologías me ha llevado a dar un giro significativo a mi carrera profesional. 
 
-I hold a degree in Advertising and Public Relations and have worked as a Digital Marketing consultant, but I have always been drawn to the world of technology. This fascination has driven me to make a significant career shift and immerse myself in the world of tech development.
+🔭 Experiencia:
+Con formación y experiencia en el campo de la Publicidad y Marketing Digital. Recientemente terminé mis estudios en el FP Superior de Desarrollo de Aplicaciones Multiplataforma y busco oportunidades laborales en el sector tecnológico
 
-I recently completed my studies in a Higher Education degree in Multiplatform Application Development, where I gained knowledge in various technologies such as Java and databases like MySQL and PostgreSQL. I also have another Higher Education degree in Telecommunications and Computer Systems.
+🌱 En aprendizaje constante:
+De manera autodidacta estoy profundizando en Java, MySQL, PostgreSQL, Angular y Spring Boot, siempre buscando mantenerme al día con las tecnologías más demandadas.
 
-Additionally, I am self-learning frameworks like Angular and Spring Boot, as well as other relevant tools to stay updated with the most in-demand technologies in the industry.
+❤️ Me motiva:
+Estar en continuo aprendizaje y descubrir nuevas tecnologías y herramientas que me permitan potenciar mi trabajo y construir un perfil polivalente.
 
-Currently, I am seeking job opportunities in the tech sector, especially in internships or junior positions, where I can apply and expand my knowledge, contribute with my skills, and continue learning. 
-
-My goal is to build a relevant profile by combining my experience in digital marketing with my new technological skills to add value to future projects.
-
-***
-Soy graduada en Publicidad y Relaciones Públicas y he trabajado como consultora de Marketing Digital, pero desde siempre me ha llamado la atención el mundo de las tecnologías. Esta fascinación me ha impulsado a dar un giro significativo en mi carrera y adentrarme en el mundo del desarrollo tecnológico.
-
-Acabo de terminar mis estudios del FP Superior en Desarrollo de Aplicaciones Multiplataforma, donde he adquirido conocimientos en diferentes tecnologías como Java y bases de datos como MySQL y PostgreSQL. También cuento con otro FP Superior en Sistemas de Telecomunicaciones e Informáticos.
-
-Además, de manera autodidacta, me encuentro formándome en el uso de frameworks como Angular y Spring Boot, así como otras herramientas relevantes para mantenerme al día de las tecnologías más demandadas en el sector.
-
-Actualmente, estoy en la búsqueda de oportunidades laborales en el ámbito tecnológico, especialmente en posiciones de prácticas o roles junior, donde pueda aplicar y expandir mis conocimientos, contribuir con mis habilidades y seguir aprendiendo. 
-
-Mi objetivo es construir un perfil relevante, fusionando mi experiencia en marketing digital con mis nuevas competencias tecnológicas para aportar valor en futuros proyectos.
-
-## 🚀 Tech Skills | Habilidades
+## 🚀 Habilidades
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -49,7 +38,7 @@ Mi objetivo es construir un perfil relevante, fusionando mi experiencia en marke
 
 
 
-## 👩🏼‍💻 Currently learning | Aprendiendo
+## 👩🏼‍💻 Aprendiendo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
